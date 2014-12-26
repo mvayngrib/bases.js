@@ -14,6 +14,13 @@ On the server side w/ Node.js:
 npm install bases
 ```
 
+Or to install the command-line utility:
+
+```
+npm install -g bases
+  // Usage: bases 16 58 FFFABDCD1478D
+```
+
 Or in the browser (adds a global `Bases` variable for now):
 
 ```html
