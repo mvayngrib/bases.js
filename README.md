@@ -18,7 +18,7 @@ Or to install the command-line utility:
 
 ```
 npm install -g bases
-  // Usage: bases 16 58 FFFABDCD1478D
+  // Usage: bases 16 58 123456789ABCDEF     // => 'c3coQ6vFTf'
 ```
 
 Or in the browser (adds a global `Bases` variable for now):
