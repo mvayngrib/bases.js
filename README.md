@@ -39,7 +39,9 @@ bases.toAlphabet(300, 'aAbBcC');    // => 'Abba'
 bases.fromBase16('c8');               // => 200
 bases.fromBase62('q0T');              // => 99999
 bases.fromAlphabet('Abba', 'aAbBcC'); // => 300
+```
 
+```shell
 // Command line
 bases 16 58 123456789ABCDEF           // => 'c3coQ6vFTf'
 ```
